@@ -1,0 +1,10 @@
+package org.customer;
+
+public class UtilityCust {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
